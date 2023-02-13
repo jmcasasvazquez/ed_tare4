@@ -6,9 +6,10 @@
 package tarea_ed04;
 
 /**
- *
+ * Esta clase sirve para archivar los datos de una cuenta corriente
  * @author Jose
  */
+
 public class CCuenta {
 
     /**
