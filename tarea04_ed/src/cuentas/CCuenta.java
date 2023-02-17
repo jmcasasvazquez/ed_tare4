@@ -6,7 +6,8 @@
 package cuentas;
 
 /**
- *
+ * Esta clase sirve para archivar datos de una cuenta corriente
+ * 
  * @author Jose
  */
 public class CCuenta {
